@@ -1,3 +1,46 @@
+```
+now() Thu Nov 24 2016 13:25:12 GMT-0800 (Pacific Standard Time)
+A: Thursday
+a: Thu
+B: November
+b: Nov
+C: 20
+c: Thu Nov 24 13:25:12 2016
+D: 11/24/16
+d: 24
+e: 24
+F: 2016-11-24
+H: 13
+h: Nov
+I: 01
+j: 329
+k: 13
+L: 194
+l:  1
+M: 25
+m: 11
+o: 24th
+P: pm
+p: PM
+R: 13:25
+r: 01:25:12 PM
+S: 12
+s: 1480022712
+T: 13:25:12
+U: 47
+u: 4
+v: 24-Nov-2016
+W: 47
+w: 4
+X: 13:25:12
+x: 11/24/16
+Y: 2016
+y: 16
+Z: Pacific Standard Time
+z: -0800
+```
+
+
 strftime
 ========
 
